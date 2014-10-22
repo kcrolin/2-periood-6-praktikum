@@ -1,0 +1,29 @@
+body {background: #A4A4A4;}
+
+.content
+{margin:0 auto;
+padding:30px;
+text-align:center;
+background: white; 
+width:700px;
+min-height:450px;
+font-size: 24px;
+border-radius:2px;
+box-shadow: 2px 2px 2px #666;}
+
+span {color: #0066CC;}
+
+.form-notice {background:#5EFB6E;
+border:1px solid #85BB65;}
+
+.form-error {background:#F9966B;
+border:1px solid #F62217;}
+
+.form-error-age {background:#F9966B;
+font-size:10px;
+display:inline;
+}
+
+.form-notice-age {background:#5EFB6E;
+font-size:10px;
+display:inline;}
